@@ -1,0 +1,9 @@
+Origin: A Sileo for Repo
+Label: A Sileo for Repo
+Suite: stable
+Version: 1.0
+Codename: ASileoforunc0ver
+Architectures: iphoneos-arm
+Components: main
+Description: Sileo For Unc0ver
+Icon: file://CydiaIcon.jpg
